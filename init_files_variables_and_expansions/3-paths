@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ls -1A |wc -l
+echo $PATH ls -1A |wc -l
