@@ -1,2 +1,2 @@
-#!bin/bash
+#!/bin/bash
 export $1337 | echo $((POWER=42784/DIVIDE=32))
